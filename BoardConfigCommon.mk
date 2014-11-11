@@ -145,7 +145,6 @@ BOARD_SEPOLICY_DIRS += \
 
 BOARD_SEPOLICY_UNION += \
 	adbd.te \
-	app.te \
 	bluetooth_loader.te \
 	bridge.te \
 	camera.te \
